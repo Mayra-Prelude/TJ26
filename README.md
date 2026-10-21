@@ -1,5 +1,7 @@
 # FemTech México — entrega vigente
 
+[Ver la agenda, el newsletter y las dos páginas VIP](review/README.md).
+
 ## Descargar y compartir
 
 - [Descargar el paquete completo](https://github.com/Mayra-Prelude/TJ26/raw/refs/heads/main/entrega/FemTech.zip).

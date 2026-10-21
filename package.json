@@ -12,7 +12,9 @@
     "build:newsletter": "node newsletter/generate-email.mjs",
     "test:newsletter": "node tests/newsletter.browser.mjs",
     "dev:sponsorships": "SERVE_DIR=sponsorship-designs PORT=3020 node scripts/serve.mjs",
-    "test:sponsorships": "node tests/sponsorship-designs.browser.mjs"
+    "test:sponsorships": "node tests/sponsorship-designs.browser.mjs",
+    "build:purchase-emails": "python3 purchase-emails/generate.py",
+    "test:purchase-emails": "node tests/purchase-emails.browser.mjs"
   },
   "devDependencies": {
     "playwright": "1.56.1"

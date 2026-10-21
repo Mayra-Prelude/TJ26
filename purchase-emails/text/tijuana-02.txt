@@ -1,0 +1,23 @@
+Asunto: Completa tu registro para Tijuana
+
+Vista previa: Faltan datos de tu reserva.
+
+Hola, {{FM_NOMBRE}}.
+
+Aún falta información para completar tu reserva {{FM_RESERVA}}.
+
+{{FM_DATOS_PENDIENTES}}
+
+Registra nombre, correo y teléfono de cada persona: un asistente por pase individual y dos por pase dúo. Añade los datos de tu empresa y el logotipo en el formulario.
+
+Completar registro: {{FM_REGISTRO_URL}}
+
+La recepción del logotipo no implica presencia de marca fuera de los beneficios acordados.
+
+{{FM_CONTACTO_RESERVAS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

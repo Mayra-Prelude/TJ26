@@ -1,0 +1,25 @@
+Asunto: Coordinemos tu llegada a Tijuana
+
+Vista previa: Tus asistentes están registrados. Ahora revisemos la logística.
+
+Hola, {{FM_NOMBRE}}.
+
+Recibimos los datos de los asistentes de tu reserva {{FM_RESERVA}}.
+
+{{FM_ASISTENTES}}
+
+Revisa en tu registro los datos de llegada que necesita el equipo para coordinar tu participación. No hace falta enviar documentos de viaje por correo.
+
+Revisar datos de llegada: {{FM_LLEGADA_URL}}
+
+El pase incluye traslados entre sedes oficiales. Cualquier traslado adicional debe confirmarse por separado.
+
+{{FM_CONTACTO_LOGISTICA}}
+
+Si necesitas corregir el logotipo de tu empresa: {{FM_CONTACTO_LOGOTIPOS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

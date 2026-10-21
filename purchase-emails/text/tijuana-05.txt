@@ -1,0 +1,23 @@
+Asunto: Mañana comienza tu experiencia en Tijuana
+
+Vista previa: Tu primer encuentro y contacto de logística.
+
+Hola, {{FM_NOMBRE}}.
+
+Mañana, 29 de octubre, comienza tu experiencia VIP.
+
+Punto de encuentro: {{FM_ENCUENTRO_TIJUANA}}
+
+Hora local: {{FM_HORA_TIJUANA}}
+
+Ver programa y traslados: {{FM_AGENDA_URL}}
+
+Si cambia tu llegada, avisa al equipo de logística.
+
+{{FM_CONTACTO_LOGISTICA}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

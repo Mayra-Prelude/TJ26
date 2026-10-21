@@ -1,0 +1,21 @@
+Asunto: Faltan datos para tu Pase VIP CDMX
+
+Vista previa: Completa solo la información pendiente.
+
+Hola, {{FM_NOMBRE}}.
+
+Aún falta información para completar tu reserva {{FM_RESERVA}}.
+
+{{FM_DATOS_PENDIENTES}}
+
+Necesitamos nombre, correo y teléfono de cada invitado, además de la empresa y su logotipo. Indica quién coordinará los materiales.
+
+Completar registro: {{FM_REGISTRO_URL}}
+
+{{FM_CONTACTO_RESERVAS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

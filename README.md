@@ -20,3 +20,9 @@ Empieza en [handoff/TRANSFERENCIA-CLAUDE.md](handoff/TRANSFERENCIA-CLAUDE.md).
 Las imágenes disponibles y los originales pendientes están en [handoff/IMAGENES.md](handoff/IMAGENES.md). La guía de redacción está en [handoff/COPY-CLARO.md](handoff/COPY-CLARO.md).
 
 El sitio Gold de la raíz (`index.html`, `app.js`, `styles.css`, `config.js`) es un borrador histórico. No usarlo para construir las páginas vigentes. Su documentación queda en [docs/README-GOLD-ARCHIVADO.md](docs/README-GOLD-ARCHIVADO.md).
+
+## Correos posteriores a la compra
+
+[12 correos CDMX y Tijuana](purchase-emails/COPY-EMAILS.md) · [Galería: descargar y abrir](purchase-emails/index.html) · [Capturas del diseño](purchase-emails/screenshots/) · [Instrucciones para Claude/GHL](purchase-emails/HANDOFF-CLAUDE-GHL.md).
+
+[Descargar solo las secuencias y sus imágenes](https://github.com/Mayra-Prelude/TJ26/raw/refs/heads/main/entrega/FemTech-correos-compra.zip). Borradores sin enviar; contactos y enlaces pendientes identificados.

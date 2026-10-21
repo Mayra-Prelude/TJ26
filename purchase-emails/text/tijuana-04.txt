@@ -1,0 +1,27 @@
+Asunto: Tu agenda y traslados en Tijuana
+
+Vista previa: Puntos de encuentro y programa del 29 al 31 de octubre.
+
+Hola, {{FM_NOMBRE}}.
+
+Consulta el programa y los horarios de cada traslado antes de viajar.
+
+29 de octubre: encuentros de industria y bienvenida. 30 de octubre: un Summit en Universidad Xochicalco. 31 de octubre: una experiencia VIP con recorridos y cierre.
+
+Primer encuentro: {{FM_ENCUENTRO_TIJUANA}}
+
+Hora local: {{FM_HORA_TIJUANA}}
+
+Traslados incluidos: {{FM_TRASLADOS}}
+
+Ver programa y traslados: {{FM_AGENDA_URL}}
+
+Comidas, alojamiento y vuelos no incluidos.
+
+{{FM_CONTACTO_LOGISTICA}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

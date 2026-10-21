@@ -1,0 +1,27 @@
+Asunto: Tu visita a CDMX: horario y ubicación
+
+Vista previa: Todo lo que necesitas para llegar al cóctel.
+
+Hola, {{FM_NOMBRE}}.
+
+Te esperamos el 26 de octubre en el cóctel VIP de Ruta FemTech.
+
+Sede: {{FM_SEDE_CDMX}}
+
+Dirección: {{FM_DIRECCION_CDMX}}
+
+Horario: {{FM_HORARIO_CDMX}}
+
+Al llegar: {{FM_INDICACIONES_CDMX}}
+
+Ver mi acceso: {{FM_ACCESO_URL}}
+
+El acceso al cóctel corresponde al pase VIP; es distinto del registro a la conferencia pública.
+
+{{FM_CONTACTO_CDMX}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

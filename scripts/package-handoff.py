@@ -35,7 +35,7 @@ with ZipFile(artifacts / 'femtech-claude-ghl-handoff.zip', 'w', ZIP_DEFLATED) as
     z.writestr('START-HERE.md', start)
     for name in ['README.md', 'package.json', 'package-lock.json', 'index.html', 'styles.css', 'app.js', 'config.js']:
         z.write(root / name, arcname=name)
-    for folder in ['scripts', 'tests', 'assets', 'docs', 'handoff']:
+    for folder in ['scripts', 'tests', 'assets', 'docs', 'handoff', 'purchase-emails']:
         tree(z, root / folder)
     tree(z, root / 'newsletter')
     tree(z, root / 'sponsorship-designs')

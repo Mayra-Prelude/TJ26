@@ -1,0 +1,27 @@
+Asunto: Tu registro para CDMX está completo
+
+Vista previa: Tus invitados están registrados. Revisemos los materiales de tu empresa.
+
+Hola, {{FM_NOMBRE}}.
+
+Recibimos los datos de todos los asistentes de tu reserva {{FM_RESERVA}}.
+
+{{FM_ASISTENTES}}
+
+Tu pase incluye presencia de marca y un espacio pequeño de exhibición en el cóctel. El equipo confirmará formatos, ubicación y montaje.
+
+Logotipo: {{FM_ESTADO_LOGOTIPO}}
+
+Entrega de materiales: {{FM_FECHA_LOGOTIPO}}
+
+Revisar materiales: {{FM_MATERIALES_URL}}
+
+Si falta el logotipo, súbelo en SVG o PNG de alta resolución con fondo transparente. Usa el mismo registro.
+
+{{FM_CONTACTO_LOGOTIPOS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

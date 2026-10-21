@@ -1,0 +1,21 @@
+Asunto: Nos vemos mañana en CDMX
+
+Vista previa: Ten a mano tu acceso y la ubicación.
+
+Hola, {{FM_NOMBRE}}.
+
+Mañana, 26 de octubre, te esperamos en el cóctel VIP.
+
+Lugar: {{FM_SEDE_CDMX}} · {{FM_DIRECCION_CDMX}}
+
+Horario: {{FM_HORARIO_CDMX}}
+
+Ver mi acceso: {{FM_ACCESO_URL}}
+
+{{FM_CONTACTO_CDMX}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

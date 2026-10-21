@@ -1,0 +1,19 @@
+Asunto: Gracias por compartir Tijuana con nosotros
+
+Vista previa: Cuéntanos cómo viviste la experiencia.
+
+Hola, {{FM_NOMBRE}}.
+
+Gracias por compartir estos días de Ruta FemTech en Tijuana.
+
+Nos gustaría saber qué te resultó más útil y qué podemos mejorar.
+
+Compartir mi opinión: {{FM_ENCUESTA_URL}}
+
+{{FM_CONTACTO_RESERVAS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

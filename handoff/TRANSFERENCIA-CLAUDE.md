@@ -46,3 +46,7 @@ No se incluyen dependencias instaladas, secretos, `.git` ni copias redundantes d
 La versión vigente del newsletter usa filas compactas, portadas laterales y skylines en cabecera y separadores. Diseño: `newsletter/render-email.mjs`; texto: `newsletter/email-copy.json` (rutas desde la raíz). Ver `handoff/NEWSLETTER-COMPACTO.md`. Conservar los nueve eventos y los datos de acceso; no volver al diseño anterior guardado para comparación.
 
 Para transferir esta carpeta mediante Drive o adjuntos, sigue `handoff/COMO-COMPARTIR-CON-CLAUDE.md` y copia `handoff/PEGAR-EN-CLAUDE.txt`. El enlace real de Drive debe obtenerse después de subir la carpeta; no se ha creado uno desde esta sesión.
+
+## Correos posteriores a la compra
+
+Se añadieron 12 correos (6 CDMX / 6 Tijuana) en `purchase-emails/`, con textos, HTML para GHL, vistas previas autónomas, PNG, variables y reglas de automatización. Leer `purchase-emails/HANDOFF-CLAUDE-GHL.md` y `purchase-emails/WORKFLOWS.md`. El registro previo al pago sigue vigente: los correos solo solicitan pendientes y nunca duplican un Airtable ya completo. No están conectados ni enviados.

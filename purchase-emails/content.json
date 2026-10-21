@@ -1,0 +1,385 @@
+{
+  "language": "es",
+  "status": "draft_not_connected",
+  "emails": [
+    {
+      "id": "cdmx-01",
+      "city": "cdmx",
+      "step": 1,
+      "subject": "Recibimos tu pago · Pase VIP CDMX",
+      "preheader": "Revisa tu compra y los datos de tus cinco invitados.",
+      "title": "Tu pago está confirmado",
+      "paragraphs": [
+        "Gracias por acompañarnos en Ciudad de México el 26 de octubre. Recibimos el pago de tu Pase VIP Gold.",
+        "Revisa los datos de cada invitado en tu registro. Si ya están completos, no tienes que registrarlos otra vez."
+      ],
+      "details": [
+        [
+          "Reserva",
+          "{{FM_RESERVA}}"
+        ],
+        [
+          "Pase",
+          "{{FM_PASE}}"
+        ],
+        [
+          "Accesos",
+          "{{FM_ACCESOS}}"
+        ],
+        [
+          "Total pagado",
+          "{{FM_TOTAL_PAGADO}}"
+        ]
+      ],
+      "cta": {
+        "label": "Revisar mi registro",
+        "url": "{{FM_REGISTRO_URL}}"
+      },
+      "notes": [
+        "Tu reserva queda lista cuando el pago y los datos de todos los asistentes están completos.",
+        "{{FM_CONTACTO_RESERVAS}}"
+      ],
+      "trigger": "pago_verificado",
+      "recipient": "comprador",
+      "optional": false
+    },
+    {
+      "id": "cdmx-02",
+      "city": "cdmx",
+      "step": 2,
+      "subject": "Faltan datos para tu Pase VIP CDMX",
+      "preheader": "Completa solo la información pendiente.",
+      "title": "Completa tu registro",
+      "paragraphs": [
+        "Aún falta información para completar tu reserva {{FM_RESERVA}}.",
+        "{{FM_DATOS_PENDIENTES}}",
+        "Necesitamos nombre, correo y teléfono de cada invitado, además de la empresa y su logotipo. Indica quién coordinará los materiales."
+      ],
+      "details": [],
+      "cta": {
+        "label": "Completar registro",
+        "url": "{{FM_REGISTRO_URL}}"
+      },
+      "notes": [
+        "{{FM_CONTACTO_RESERVAS}}"
+      ],
+      "trigger": "pago_mas_24h_si_incompleto",
+      "recipient": "comprador",
+      "optional": false
+    },
+    {
+      "id": "cdmx-03",
+      "city": "cdmx",
+      "step": 3,
+      "subject": "Tu registro para CDMX está completo",
+      "preheader": "Tus invitados están registrados. Revisemos los materiales de tu empresa.",
+      "title": "Ya están registrados",
+      "paragraphs": [
+        "Recibimos los datos de todos los asistentes de tu reserva {{FM_RESERVA}}.",
+        "{{FM_ASISTENTES}}",
+        "Tu pase incluye presencia de marca y un espacio pequeño de exhibición en el cóctel. El equipo confirmará formatos, ubicación y montaje."
+      ],
+      "details": [
+        [
+          "Logotipo",
+          "{{FM_ESTADO_LOGOTIPO}}"
+        ],
+        [
+          "Entrega de materiales",
+          "{{FM_FECHA_LOGOTIPO}}"
+        ]
+      ],
+      "cta": {
+        "label": "Revisar materiales",
+        "url": "{{FM_MATERIALES_URL}}"
+      },
+      "notes": [
+        "Si falta el logotipo, súbelo en SVG o PNG de alta resolución con fondo transparente. Usa el mismo registro.",
+        "{{FM_CONTACTO_LOGOTIPOS}}"
+      ],
+      "trigger": "pago_y_registro_completos",
+      "recipient": "comprador",
+      "optional": false
+    },
+    {
+      "id": "cdmx-04",
+      "city": "cdmx",
+      "step": 4,
+      "subject": "Tu visita a CDMX: horario y ubicación",
+      "preheader": "Todo lo que necesitas para llegar al cóctel.",
+      "title": "Tu visita a CDMX",
+      "paragraphs": [
+        "Te esperamos el 26 de octubre en el cóctel VIP de Ruta FemTech."
+      ],
+      "details": [
+        [
+          "Sede",
+          "{{FM_SEDE_CDMX}}"
+        ],
+        [
+          "Dirección",
+          "{{FM_DIRECCION_CDMX}}"
+        ],
+        [
+          "Horario",
+          "{{FM_HORARIO_CDMX}}"
+        ],
+        [
+          "Al llegar",
+          "{{FM_INDICACIONES_CDMX}}"
+        ]
+      ],
+      "cta": {
+        "label": "Ver mi acceso",
+        "url": "{{FM_ACCESO_URL}}"
+      },
+      "notes": [
+        "El acceso al cóctel corresponde al pase VIP; es distinto del registro a la conferencia pública.",
+        "{{FM_CONTACTO_CDMX}}"
+      ],
+      "trigger": "evento_menos_3_dias",
+      "recipient": "cada_asistente",
+      "optional": false
+    },
+    {
+      "id": "cdmx-05",
+      "city": "cdmx",
+      "step": 5,
+      "subject": "Nos vemos mañana en CDMX",
+      "preheader": "Ten a mano tu acceso y la ubicación.",
+      "title": "Nos vemos mañana",
+      "paragraphs": [
+        "Mañana, 26 de octubre, te esperamos en el cóctel VIP."
+      ],
+      "details": [
+        [
+          "Lugar",
+          "{{FM_SEDE_CDMX}} · {{FM_DIRECCION_CDMX}}"
+        ],
+        [
+          "Horario",
+          "{{FM_HORARIO_CDMX}}"
+        ]
+      ],
+      "cta": {
+        "label": "Ver mi acceso",
+        "url": "{{FM_ACCESO_URL}}"
+      },
+      "notes": [
+        "{{FM_CONTACTO_CDMX}}"
+      ],
+      "trigger": "evento_menos_1_dia",
+      "recipient": "cada_asistente",
+      "optional": false
+    },
+    {
+      "id": "cdmx-06",
+      "city": "cdmx",
+      "step": 6,
+      "subject": "Gracias por acompañarnos en CDMX",
+      "preheader": "Seguimos en contacto para los beneficios de tu pase.",
+      "title": "Gracias por venir",
+      "paragraphs": [
+        "Gracias por formar parte de Ruta FemTech en Ciudad de México.",
+        "{{FM_SEGUIMIENTO_CDMX}}",
+        "Las propuestas de participación como ponente requieren aprobación del comité correspondiente."
+      ],
+      "details": [],
+      "cta": {
+        "label": "Coordinar siguientes pasos",
+        "url": "{{FM_SEGUIMIENTO_URL}}"
+      },
+      "notes": [
+        "{{FM_CONTACTO_RESERVAS}}"
+      ],
+      "trigger": "evento_mas_1_dia",
+      "recipient": "comprador",
+      "optional": true
+    },
+    {
+      "id": "tijuana-01",
+      "city": "tijuana",
+      "step": 1,
+      "subject": "Recibimos tu pago · Experiencia VIP Tijuana",
+      "preheader": "Tu compra para el 29–31 de octubre está registrada.",
+      "title": "Tu pago está confirmado",
+      "paragraphs": [
+        "Gracias por sumarte a Ruta FemTech en Tijuana, del 29 al 31 de octubre.",
+        "Revisa los datos de cada asistente en tu registro. Si ya están completos, no tienes que registrarlos otra vez."
+      ],
+      "details": [
+        [
+          "Reserva",
+          "{{FM_RESERVA}}"
+        ],
+        [
+          "Pase",
+          "{{FM_PASE}}"
+        ],
+        [
+          "Accesos",
+          "{{FM_ACCESOS}}"
+        ],
+        [
+          "Total pagado",
+          "{{FM_TOTAL_PAGADO}}"
+        ]
+      ],
+      "cta": {
+        "label": "Revisar mi registro",
+        "url": "{{FM_REGISTRO_URL}}"
+      },
+      "notes": [
+        "Incluye el programa y traslados entre sedes oficiales. Comidas, alojamiento y vuelos por separado.",
+        "Tu reserva queda lista cuando el pago y los datos de todos los asistentes están completos.",
+        "{{FM_CONTACTO_RESERVAS}}"
+      ],
+      "trigger": "pago_verificado",
+      "recipient": "comprador",
+      "optional": false
+    },
+    {
+      "id": "tijuana-02",
+      "city": "tijuana",
+      "step": 2,
+      "subject": "Completa tu registro para Tijuana",
+      "preheader": "Faltan datos de tu reserva.",
+      "title": "Completa tu registro",
+      "paragraphs": [
+        "Aún falta información para completar tu reserva {{FM_RESERVA}}.",
+        "{{FM_DATOS_PENDIENTES}}",
+        "Registra nombre, correo y teléfono de cada persona: un asistente por pase individual y dos por pase dúo. Añade los datos de tu empresa y el logotipo en el formulario."
+      ],
+      "details": [],
+      "cta": {
+        "label": "Completar registro",
+        "url": "{{FM_REGISTRO_URL}}"
+      },
+      "notes": [
+        "La recepción del logotipo no implica presencia de marca fuera de los beneficios acordados.",
+        "{{FM_CONTACTO_RESERVAS}}"
+      ],
+      "trigger": "pago_mas_24h_si_incompleto",
+      "recipient": "comprador",
+      "optional": false
+    },
+    {
+      "id": "tijuana-03",
+      "city": "tijuana",
+      "step": 3,
+      "subject": "Coordinemos tu llegada a Tijuana",
+      "preheader": "Tus asistentes están registrados. Ahora revisemos la logística.",
+      "title": "Preparemos tu visita",
+      "paragraphs": [
+        "Recibimos los datos de los asistentes de tu reserva {{FM_RESERVA}}.",
+        "{{FM_ASISTENTES}}",
+        "Revisa en tu registro los datos de llegada que necesita el equipo para coordinar tu participación. No hace falta enviar documentos de viaje por correo."
+      ],
+      "details": [],
+      "cta": {
+        "label": "Revisar datos de llegada",
+        "url": "{{FM_LLEGADA_URL}}"
+      },
+      "notes": [
+        "El pase incluye traslados entre sedes oficiales. Cualquier traslado adicional debe confirmarse por separado.",
+        "{{FM_CONTACTO_LOGISTICA}}",
+        "Si necesitas corregir el logotipo de tu empresa: {{FM_CONTACTO_LOGOTIPOS}}"
+      ],
+      "trigger": "pago_y_registro_completos",
+      "recipient": "comprador",
+      "optional": false
+    },
+    {
+      "id": "tijuana-04",
+      "city": "tijuana",
+      "step": 4,
+      "subject": "Tu agenda y traslados en Tijuana",
+      "preheader": "Puntos de encuentro y programa del 29 al 31 de octubre.",
+      "title": "Tu agenda en Tijuana",
+      "paragraphs": [
+        "Consulta el programa y los horarios de cada traslado antes de viajar.",
+        "29 de octubre: encuentros de industria y bienvenida. 30 de octubre: un Summit en Universidad Xochicalco. 31 de octubre: una experiencia VIP con recorridos y cierre."
+      ],
+      "details": [
+        [
+          "Primer encuentro",
+          "{{FM_ENCUENTRO_TIJUANA}}"
+        ],
+        [
+          "Hora local",
+          "{{FM_HORA_TIJUANA}}"
+        ],
+        [
+          "Traslados incluidos",
+          "{{FM_TRASLADOS}}"
+        ]
+      ],
+      "cta": {
+        "label": "Ver programa y traslados",
+        "url": "{{FM_AGENDA_URL}}"
+      },
+      "notes": [
+        "Comidas, alojamiento y vuelos no incluidos.",
+        "{{FM_CONTACTO_LOGISTICA}}"
+      ],
+      "trigger": "evento_menos_3_dias",
+      "recipient": "cada_asistente",
+      "optional": false
+    },
+    {
+      "id": "tijuana-05",
+      "city": "tijuana",
+      "step": 5,
+      "subject": "Mañana comienza tu experiencia en Tijuana",
+      "preheader": "Tu primer encuentro y contacto de logística.",
+      "title": "Nos vemos mañana",
+      "paragraphs": [
+        "Mañana, 29 de octubre, comienza tu experiencia VIP."
+      ],
+      "details": [
+        [
+          "Punto de encuentro",
+          "{{FM_ENCUENTRO_TIJUANA}}"
+        ],
+        [
+          "Hora local",
+          "{{FM_HORA_TIJUANA}}"
+        ]
+      ],
+      "cta": {
+        "label": "Ver programa y traslados",
+        "url": "{{FM_AGENDA_URL}}"
+      },
+      "notes": [
+        "Si cambia tu llegada, avisa al equipo de logística.",
+        "{{FM_CONTACTO_LOGISTICA}}"
+      ],
+      "trigger": "evento_menos_1_dia",
+      "recipient": "cada_asistente",
+      "optional": false
+    },
+    {
+      "id": "tijuana-06",
+      "city": "tijuana",
+      "step": 6,
+      "subject": "Gracias por compartir Tijuana con nosotros",
+      "preheader": "Cuéntanos cómo viviste la experiencia.",
+      "title": "Gracias por acompañarnos",
+      "paragraphs": [
+        "Gracias por compartir estos días de Ruta FemTech en Tijuana.",
+        "Nos gustaría saber qué te resultó más útil y qué podemos mejorar."
+      ],
+      "details": [],
+      "cta": {
+        "label": "Compartir mi opinión",
+        "url": "{{FM_ENCUESTA_URL}}"
+      },
+      "notes": [
+        "{{FM_CONTACTO_RESERVAS}}"
+      ],
+      "trigger": "cierre_mas_1_dia",
+      "recipient": "comprador",
+      "optional": true
+    }
+  ]
+}

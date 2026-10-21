@@ -1,0 +1,21 @@
+Asunto: Gracias por acompañarnos en CDMX
+
+Vista previa: Seguimos en contacto para los beneficios de tu pase.
+
+Hola, {{FM_NOMBRE}}.
+
+Gracias por formar parte de Ruta FemTech en Ciudad de México.
+
+{{FM_SEGUIMIENTO_CDMX}}
+
+Las propuestas de participación como ponente requieren aprobación del comité correspondiente.
+
+Coordinar siguientes pasos: {{FM_SEGUIMIENTO_URL}}
+
+{{FM_CONTACTO_RESERVAS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

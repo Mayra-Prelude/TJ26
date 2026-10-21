@@ -1,0 +1,33 @@
+Asunto: Recibimos tu pago · Experiencia VIP Tijuana
+
+Vista previa: Tu compra para el 29–31 de octubre está registrada.
+
+Hola, {{FM_NOMBRE}}.
+
+Gracias por sumarte a Ruta FemTech en Tijuana, del 29 al 31 de octubre.
+
+Revisa los datos de cada asistente en tu registro. Si ya están completos, no tienes que registrarlos otra vez.
+
+Reserva: {{FM_RESERVA}}
+
+Pase: {{FM_PASE}}
+
+Accesos: {{FM_ACCESOS}}
+
+Total pagado: {{FM_TOTAL_PAGADO}}
+
+Revisar mi registro: {{FM_REGISTRO_URL}}
+
+Ver comprobante de pago: {{FM_COMPROBANTE_URL}}
+
+Incluye el programa y traslados entre sedes oficiales. Comidas, alojamiento y vuelos por separado.
+
+Tu reserva queda lista cuando el pago y los datos de todos los asistentes están completos.
+
+{{FM_CONTACTO_RESERVAS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

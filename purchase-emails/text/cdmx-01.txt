@@ -1,0 +1,31 @@
+Asunto: Recibimos tu pago · Pase VIP CDMX
+
+Vista previa: Revisa tu compra y los datos de tus cinco invitados.
+
+Hola, {{FM_NOMBRE}}.
+
+Gracias por acompañarnos en Ciudad de México el 26 de octubre. Recibimos el pago de tu Pase VIP Gold.
+
+Revisa los datos de cada invitado en tu registro. Si ya están completos, no tienes que registrarlos otra vez.
+
+Reserva: {{FM_RESERVA}}
+
+Pase: {{FM_PASE}}
+
+Accesos: {{FM_ACCESOS}}
+
+Total pagado: {{FM_TOTAL_PAGADO}}
+
+Revisar mi registro: {{FM_REGISTRO_URL}}
+
+Ver comprobante de pago: {{FM_COMPROBANTE_URL}}
+
+Tu reserva queda lista cuando el pago y los datos de todos los asistentes están completos.
+
+{{FM_CONTACTO_RESERVAS}}
+
+FemTech México · {{FM_PIE_LEGAL}}
+
+Privacidad: {{FM_PRIVACIDAD_URL}}
+
+Preferencias: {{FM_PREFERENCIAS_URL}}

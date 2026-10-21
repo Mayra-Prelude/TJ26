@@ -1,0 +1,206 @@
+{
+  "NOMBRE": {
+    "source": "Nombre del comprador o del destinatario. Saludo alternativo: Hola.",
+    "preview": "Andrea",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "RESERVA": {
+    "source": "Identificador opaco de reserva Airtable vinculado al pedido GHL.",
+    "preview": "VISTA-001",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "PASE": {
+    "source": "Producto del pedido verificado; Gold, individual o dúo.",
+    "preview": "Pase VIP",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "ACCESOS": {
+    "source": "Suma de unidades por capacidad del producto: Gold 5, individual 1, dúo 2.",
+    "preview": "5",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "TOTAL_PAGADO": {
+    "source": "Importe realmente cobrado con moneda; no precio de referencia ni total calculado desde el navegador.",
+    "preview": "Importe y moneda del pago verificado",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "COMPROBANTE_URL": {
+    "source": "Comprobante real del proveedor; no equivale a factura fiscal.",
+    "preview": "https://pendiente.invalid/comprobante",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "REGISTRO_URL": {
+    "source": "Enlace autorizado al Airtable existente, asociado a la reserva sin datos personales en URL.",
+    "preview": "https://pendiente.invalid/registro",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "CONTACTO_RESERVAS": {
+    "source": "Nombre y correo/WhatsApp del responsable aprobado.",
+    "preview": "Reservas: nombre y contacto por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "CONTACTO_LOGOTIPOS": {
+    "source": "Nombre y correo/WhatsApp de quien recibe y revisa materiales.",
+    "preview": "Logotipos: nombre y contacto por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "CONTACTO_LOGISTICA": {
+    "source": "Nombre y correo/WhatsApp del responsable de traslados en Tijuana.",
+    "preview": "Logística: nombre y WhatsApp por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "CONTACTO_CDMX": {
+    "source": "Nombre y WhatsApp de atención en CDMX.",
+    "preview": "Atención CDMX: nombre y WhatsApp por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "DATOS_PENDIENTES": {
+    "source": "Resumen de campos faltantes, sin exponer datos de otros asistentes.",
+    "preview": "Faltan datos de asistentes o de la empresa",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "ASISTENTES": {
+    "source": "Lista de nombres de esta reserva, solo para el comprador. No incluir correos ni teléfonos.",
+    "preview": "Asistente 1 · Asistente 2 · Asistente 3 · Asistente 4 · Asistente 5",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "ESTADO_LOGOTIPO": {
+    "source": "Texto según estado: pendiente/recibido/aprobado. Si recibido, no volver a solicitarlo. Solo beneficios contratados.",
+    "preview": "Logotipo: recepción por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "FECHA_LOGOTIPO": {
+    "source": "Fecha límite confirmada por el responsable de materiales, con zona horaria si hay hora.",
+    "preview": "Fecha de entrega por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "MATERIALES_URL": {
+    "source": "Airtable existente para revisar/cargar logo o actualizar persona responsable.",
+    "preview": "https://pendiente.invalid/materiales",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "LLEGADA_URL": {
+    "source": "Vista/formulario Airtable existente para datos mínimos de coordinación.",
+    "preview": "https://pendiente.invalid/llegada",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "AGENDA_URL": {
+    "source": "Programa definitivo alojado en GHL u otro destino autorizado.",
+    "preview": "https://pendiente.invalid/agenda",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "ACCESO_URL": {
+    "source": "Acceso de esta persona/reserva autorizado; no inventar QR ni usar confirmación de pago como entrada.",
+    "preview": "https://pendiente.invalid/acceso",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "SEDE_CDMX": {
+    "source": "Sede exacta aprobada para el cóctel, no asumir que coincide con la conferencia.",
+    "preview": "Sede del cóctel por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "DIRECCION_CDMX": {
+    "source": "Dirección exacta confirmada del cóctel.",
+    "preview": "Dirección por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "HORARIO_CDMX": {
+    "source": "Horario confirmado del cóctel con hora local CDMX; no usar hora de la conferencia.",
+    "preview": "Horario local por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "INDICACIONES_CDMX": {
+    "source": "Entrada, registro y estacionamiento solo si están confirmados.",
+    "preview": "Indicaciones de acceso por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "ENCUENTRO_TIJUANA": {
+    "source": "Punto y dirección del primer encuentro o del próximo aplicable al comprar tarde.",
+    "preview": "Punto de encuentro por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "HORA_TIJUANA": {
+    "source": "Fecha/hora local Tijuana del encuentro aplicable.",
+    "preview": "Horario local por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "TRASLADOS": {
+    "source": "Horarios/ruta oficial confirmada, sin prometer aeropuerto u hotel.",
+    "preview": "Traslados entre sedes: horarios por confirmar",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "SEGUIMIENTO_CDMX": {
+    "source": "Fechas y mecanismo aprobados de vinculación durante seis meses, sujeto a calendarios y disponibilidad; sin afiliación automática ni ponencias garantizadas.",
+    "preview": "Te compartiremos el calendario de reuniones y los pasos para participar durante los seis meses acordados, sujetos a disponibilidad.",
+    "type": "text",
+    "scope": "reserva"
+  },
+  "ENCUESTA_URL": {
+    "source": "Encuesta aprobada y breve; no activar este correo opcional sin enlace.",
+    "preview": "https://pendiente.invalid/encuesta",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "SEGUIMIENTO_URL": {
+    "source": "Página o canal aprobado para coordinar beneficios CDMX.",
+    "preview": "https://pendiente.invalid/seguimiento",
+    "type": "url",
+    "scope": "reserva"
+  },
+  "PRIVACIDAD_URL": {
+    "source": "Aviso de privacidad aprobado.",
+    "preview": "https://pendiente.invalid/privacidad",
+    "type": "url",
+    "scope": "global"
+  },
+  "PIE_LEGAL": {
+    "source": "Identidad y domicilio del remitente aprobados.",
+    "preview": "Identidad y domicilio del remitente por confirmar",
+    "type": "text",
+    "scope": "global"
+  },
+  "PREFERENCIAS_URL": {
+    "source": "Mecanismo de preferencias/baja real según configuración de envío. No omitir restricciones de contacto.",
+    "preview": "https://pendiente.invalid/preferencias",
+    "type": "url",
+    "scope": "global"
+  },
+  "SKYLINE_CDMX_URL": {
+    "source": "Subir assets/cdmx.png a medios GHL y pegar URL HTTPS pública.",
+    "preview": "",
+    "type": "image_url",
+    "scope": "global"
+  },
+  "SKYLINE_TIJUANA_URL": {
+    "source": "Subir assets/tijuana.png a medios GHL y pegar URL HTTPS pública.",
+    "preview": "",
+    "type": "image_url",
+    "scope": "global"
+  }
+}

@@ -1,0 +1,4 @@
+Implementa como borradores en GHL las dos secuencias de compra de https://github.com/Mayra-Prelude/TJ26/tree/main/purchase-emails.
+Lee HANDOFF-CLAUDE-GHL.md, WORKFLOWS.md, manifest.json y variables.json. Usa templates/ para GHL; preview/ solo muestra el diseño. Son 6 correos CDMX y 6 Tijuana, en español, con skylines incluidos en assets/.
+Reutiliza Airtable y productos/pagos existentes. Respeta el flujo registro → pago: no pidas datos ya completados. Distingue pago verificado de registro completo, registra a todos los asistentes y evita duplicados por reserva. Los marcadores FM no son campos GHL nativos: mapea y verifica cada uno. Sube los PNG a medios GHL. Pide los contactos, horarios y enlaces faltantes; no inventes datos ni actives con placeholders.
+Entrega vista previa, pruebas autorizadas y lista de pendientes. No actives workflows ni envíes a compradores reales hasta revisión.

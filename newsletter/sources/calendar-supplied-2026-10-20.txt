@@ -1,0 +1,76 @@
+# Ruta FemTech 2026 — Calendario de próximos eventos
+
+26 de octubre – 12 de noviembre de 2026 · México, Estados Unidos y Portugal
+
+Revisé el documento Speaker Pack — Xesco Espar · FemTech México Ruta 2026 en Google Drive y la información oficial de Startup World Cup y Web Summit.
+
+Para la página de FemTech México™, recomiendo separar los eventos que organizamos de aquellos en los que participamos como invitados, ponentes o representantes del ecosistema.
+
+## Calendario de eventos
+
+| Fecha     | Evento y ubicación                                                                      | Participación y registro                                                                                                      |
+| --------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 26 oct    | Ruta FemTech — CDMX. CANACINTRA Nacional, Ciudad de México                              | Evento abierto con registro gratuito. Cóctel VIP por invitación; patrocinio Gold empresarial de $30,000 MXN con cinco accesos |
+| 27–28 oct | Milken Global Investors' Symposium. Four Seasons Hotel, Ciudad de México                | Evento externo, por invitación. Participación en el programa de salud de la mujer. Sin registro gestionado por FemTech México |
+| 29 oct    | Ruta Industrial FemTech. Plantas de dispositivos médicos y Medtronic, Tijuana           | Delegación industrial de aproximadamente 20–25 personas. Acceso mediante invitación y coordinación de la organización         |
+| 30 oct    | FemTech México Summit — Aquí Empieza. Universidad Xochicalco, Tijuana                   | Cumbre con registro gratuito. Conferencias, industria, ciencia, inversión y liderazgo                                         |
+| 30 oct    | Experiencia VIP — Tijuana. Sede por confirmar                                           | Experiencia de pago. Registro a través de la página VIP                                                                       |
+| 31 oct    | Visitas a hospitales — Tijuana                                                          | Actividad de delegación; participación por invitación                                                                         |
+| 31 oct    | Experiencia VIP — Tijuana. Sede por confirmar                                           | Experiencia de pago; confirmar el programa y modalidad                                                                        |
+| 3 nov     | Ruta FemTech — Silicon Valley. Área de San Francisco, California                        | Actividad de cierre de Ruta, pendiente de confirmar sede, formato y acceso                                                    |
+| 4–6 nov   | Startup World Cup — Grand Finale 2026. Hilton San Francisco Union Square, San Francisco | Evento externo. Entradas oficiales disponibles; participación en la competencia mediante clasificación                        |
+| 9–12 nov  | Web Summit 2026. MEO Arena y FIL, Lisboa, Portugal                                      | Evento externo. Entradas a través del organizador oficial                                                                     |
+
+El documento de Xesco describe las actividades del 29 al 31 de octubre y Silicon Valley como parte de la planificación; algunas sedes y formatos siguen sujetos a confirmación. Las fechas de Startup World Cup y Web Summit están verificadas con sus organizadores.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.startupworldcup.io\&sz=32)
+
+Startup World Cup
+
++1
+
+## Enlaces de registro
+
+Eventos gratuitos de FemTech México™
+
+26 de octubre CDMX y 30 de octubre Tijuana. Seleccionar el evento correspondiente en nuestro calendario.
+
+[Calendario de FemTech México en Luma](https://luma.com/femtechmx?utm_source=chatgpt.com)&#x20;
+
+Experiencia VIP — Tijuana
+
+Página de registro y pago identificada en el documento de Xesco.
+
+[Ver experiencia VIP](https://ruta2026.prelude-health.com/vip-tijuana-page?utm_source=chatgpt.com)&#x20;
+
+Startup World Cup 2026
+
+Semifinales el 4 de noviembre y Gran Final el 6. Registro y boletos gestionados por Startup World Cup.
+
+[Registro oficial Startup World Cup](https://www.startupworldcup.io/grand-finale?utm_source=chatgpt.com)&#x20;
+
+Web Summit Lisboa 2026
+
+9–12 de noviembre. Entradas, exhibición y acreditaciones en la web oficial.
+
+[Registro oficial Web Summit](https://websummit.com/web-summit-2026/?utm_source=chatgpt.com)&#x20;
+
+## Cómo lo presentaría en la web de FemTech México™
+
+Recomiendo crear una sección Próximos Eventos — Ruta FemTech 2026 y Agenda Internacional, con tres tipos de participación:
+
+Organizamos: Registro gratuito, patrocinio o compra de experiencia VIP.
+
+Por invitación: Actividades privadas, visitas industriales y encuentros exclusivos. Mostrar «Acceso por invitación».
+
+Participamos: Eventos de terceros como Milken, Startup World Cup y Web Summit. Mostrar «Participación de FemTech México» y dirigir al organizador para registrarse.
+
+Para Milken, usaría únicamente una nota institucional, sin botón de registro. Para Silicon Valley el 3 de noviembre, mantendría el evento en el calendario como próximamente, hasta confirmar el nombre oficial, la sede y si será abierto o por invitación.
+
+### Pendientes para publicar
+
+Hay cuatro puntos importantes que conviene cerrar: los enlaces individuales de Luma para CDMX y Tijuana, la modalidad definitiva de las experiencias VIP del 30 y 31, la confirmación del evento de Silicon Valley del 3 de noviembre y el enlace de patrocinio Gold del 26.
+
+También encontré en el documento de Xesco una posible conferencia en San Diego el 30 o 31 de octubre. La dejaría en el calendario interno como por confirmar, sin publicarla todavía.
+
+Mi recomendación: publicar todos los eventos confirmados en una sola página, con sus fechas, ciudades, organizadores y mecanismos de acceso. Así el público podrá distinguir claramente dónde puede registrarse, dónde necesita invitación y dónde FemTech México participa como parte de su agenda internacional.

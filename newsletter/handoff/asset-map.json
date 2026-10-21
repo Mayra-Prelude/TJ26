@@ -1,0 +1,199 @@
+{
+  "source_folder_windows": "G:\\My Drive\\11 - Femtech Mx\\06 - Eventos\\MexicoTech Week 2026\\FemTech Assets",
+  "source_folder_drive_breadcrumb": [
+    "My Drive",
+    "11 - Femtech Mx",
+    "06 - Eventos",
+    "MexicoTech Week 2026",
+    "FemTech Assets"
+  ],
+  "source_folder_drive_url": null,
+  "instructions": "Los nombres de destino son propuestas locales. Registrar nombre original, URL real de Drive y URL alojada de GHL. Mantener marcadores hasta disponer de archivos.",
+  "covers": [
+    {
+      "key": "xesco-tech-week",
+      "status": "inline_reference_seen_source_file_pending",
+      "visual_match": "Xesco Espar portrait; navy/lime DEL ATLETA DE ELITE A TU DIA A DIA; orange Femtech and Mexico Tech Week footer; Oct 26 CANACINTRA.",
+      "source_filename": null,
+      "source_drive_url": null,
+      "target_local_file": "newsletter/assets/covers/xesco-tech-week.jpg",
+      "ghl_media_url": null,
+      "alt": "Portada de Xesco · Mexico Tech Week",
+      "web_selector": ".event-cover[data-cover=\"xesco-tech-week\"]",
+      "email_selector": "[data-event-cover=\"xesco-tech-week\"]",
+      "events": [
+        {
+          "id": "ruta",
+          "date": "20261026",
+          "title": "Tech: Del atleta de élite a tu día a día",
+          "date_confirmed": true
+        },
+        {
+          "id": "cocktail",
+          "date": "20261026",
+          "title": "Cóctel VIP · Ruta FemTech 2026",
+          "date_confirmed": true
+        }
+      ]
+    },
+    {
+      "key": "summit",
+      "status": "inline_reference_seen_source_file_pending",
+      "visual_match": "Purple/pink SUMMIT FEMTECH MEXICO.26 poster; Aqui Empieza; 30 OCTUBRE / CD TIJUANA; QR and partner logos.",
+      "source_filename": null,
+      "source_drive_url": null,
+      "target_local_file": "newsletter/assets/covers/summit.jpg",
+      "ghl_media_url": null,
+      "alt": "Portada de FemTech México Summit 2026",
+      "web_selector": ".event-cover[data-cover=\"summit\"]",
+      "email_selector": "[data-event-cover=\"summit\"]",
+      "events": [
+        {
+          "id": "industrial",
+          "date": "20261029",
+          "title": "Liderazgo y manufactura · Experiencia VIP",
+          "date_confirmed": true
+        },
+        {
+          "id": "summit",
+          "date": "20261030",
+          "title": "FemTech México Summit 2026 · Aquí Empieza",
+          "date_confirmed": true
+        },
+        {
+          "id": "hospitals",
+          "date": "20261031",
+          "title": "Experiencia VIP · Recorridos de hospital y cierre",
+          "date_confirmed": true
+        }
+      ]
+    },
+    {
+      "key": "startup-world-cup",
+      "status": "original_not_supplied",
+      "visual_match": "Startup World Cup photo requested for Silicon Valley; exact photo not yet supplied.",
+      "source_filename": null,
+      "source_drive_url": null,
+      "target_local_file": "newsletter/assets/covers/startup-world-cup.jpg",
+      "ghl_media_url": null,
+      "alt": "Portada de Fotografía de Startup World Cup",
+      "web_selector": ".event-cover[data-cover=\"startup-world-cup\"]",
+      "email_selector": "[data-event-cover=\"startup-world-cup\"]",
+      "events": [
+        {
+          "id": "sf",
+          "date": "20261103",
+          "title": "Ruta FemTech · Silicon Valley",
+          "date_confirmed": true
+        },
+        {
+          "id": "startup-world-cup",
+          "date": "20261104",
+          "title": "Startup World Cup · Gran Final 2026",
+          "date_confirmed": true
+        }
+      ]
+    },
+    {
+      "key": "deeptech",
+      "status": "inline_reference_seen_source_file_pending",
+      "visual_match": "Black/pink Salud + Deeptech poster with organs/medical imagery; Mexico Tech Week, Novartis and Distrito Tlalpan logos.",
+      "source_filename": null,
+      "source_drive_url": null,
+      "target_local_file": "newsletter/assets/covers/deeptech.jpg",
+      "ghl_media_url": null,
+      "alt": "Portada de Salud + Deeptech",
+      "web_selector": ".event-cover[data-cover=\"deeptech\"]",
+      "email_selector": "[data-event-cover=\"deeptech\"]",
+      "events": [
+        {
+          "id": "deeptech",
+          "date": "20261028",
+          "title": "Salud + Deeptech: soluciones para la mitad de la población, ¿quién las va a construir?",
+          "date_confirmed": true
+        }
+      ]
+    },
+    {
+      "key": "milken",
+      "status": "original_not_supplied",
+      "visual_match": "No specific cover supplied. Retain placeholder unless an approved original is located.",
+      "source_filename": null,
+      "source_drive_url": null,
+      "target_local_file": "newsletter/assets/covers/milken.jpg",
+      "ghl_media_url": null,
+      "alt": "Portada de Milken Global Investors’ Symposium",
+      "web_selector": ".event-cover[data-cover=\"milken\"]",
+      "email_selector": "[data-event-cover=\"milken\"]",
+      "events": [
+        {
+          "id": "milken",
+          "date": "20261027",
+          "title": "Milken Global Investors’ Symposium",
+          "date_confirmed": true
+        }
+      ]
+    },
+    {
+      "key": "websummit",
+      "status": "original_not_supplied",
+      "visual_match": "No specific cover supplied. Retain placeholder unless an approved original is located.",
+      "source_filename": null,
+      "source_drive_url": null,
+      "target_local_file": "newsletter/assets/covers/websummit.jpg",
+      "ghl_media_url": null,
+      "alt": "Portada de Web Summit 2026",
+      "web_selector": ".event-cover[data-cover=\"websummit\"]",
+      "email_selector": "[data-event-cover=\"websummit\"]",
+      "events": [
+        {
+          "id": "websummit",
+          "date": "20261109",
+          "title": "Web Summit 2026 · Lisboa",
+          "date_confirmed": true
+        }
+      ]
+    }
+  ],
+  "city_divider_images": [
+    {
+      "city": "cdmx",
+      "local_email_file": "newsletter/assets/skylines/cdmx.png",
+      "local_web_file": "newsletter/assets/skylines/cdmx.svg",
+      "ghl_media_url": null
+    },
+    {
+      "city": "tijuana",
+      "local_email_file": "newsletter/assets/skylines/tijuana.png",
+      "local_web_file": "newsletter/assets/skylines/tijuana.svg",
+      "ghl_media_url": null
+    },
+    {
+      "city": "sf",
+      "local_email_file": "newsletter/assets/skylines/sf.png",
+      "local_web_file": "newsletter/assets/skylines/sf.svg",
+      "ghl_media_url": null
+    },
+    {
+      "city": "lisbon",
+      "local_email_file": "newsletter/assets/skylines/lisbon.png",
+      "local_web_file": "newsletter/assets/skylines/lisbon.svg",
+      "ghl_media_url": null
+    }
+  ],
+  "language": "es",
+  "current_offer": "Tijuana: USD 650 individual / USD 980 dúo. CDMX: pase VIP Gold por invitación, MXN 30,000 de referencia con impuestos por confirmar.",
+  "newsletter_excluded_regions": [
+    "lisbon"
+  ],
+  "newsletter_event_count": 9,
+  "website_event_count": 10,
+  "asset_inventory": "handoff/IMAGENES.md",
+  "newsletter_header_skyline": {
+    "local_email_file": "newsletter/assets/skylines/ruta-ciudades.png",
+    "source_svg": "newsletter/assets/skylines/ruta-ciudades.svg",
+    "export_copy": "IMAGENES/skylines/ruta-ciudades.png",
+    "email_selector": "[data-newsletter-skyline=\"ruta-ciudades\"]",
+    "ghl_media_url": null
+  }
+}

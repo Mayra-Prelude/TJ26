@@ -1,0 +1,9 @@
+Usa esta entrega de FemTech México: [PEGA AQUÍ EL ENLACE DE LA CARPETA DRIVE, O INDICA LA CARPETA/ARCHIVOS ADJUNTOS].
+
+Primero confirma que puedes leer los archivos y abrir las imágenes. Empieza por handoff/TRANSFERENCIA-CLAUDE.md y sigue las guías vigentes, no los borradores históricos.
+
+Implementa la agenda web, las páginas de pases VIP de CDMX y Tijuana y el newsletter compacto en GoHighLevel. Mantén el diseño, los skylines y el texto breve. El correo tiene nueve actividades sin Lisboa; la web conserva diez.
+
+Usa IMAGENES/skylines/ y recupera las portadas pendientes según handoff/IMAGENES.md. Para el envío, usa newsletter/email-ghl.html y aloja las imágenes en GHL. Reutiliza el Airtable existente para empresa, logotipo y datos de cada asistente, vinculado al pago en GHL, según sponsorship-designs/AIRTABLE-GHL-REGISTRO-VIP.md.
+
+Respeta precios, inclusiones y términos. No inventes enlaces ni datos pendientes. Entrega una vista de revisión y una lista de lo que aún falte; no publiques, envíes correos ni cobres automáticamente.

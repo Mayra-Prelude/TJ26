@@ -1,0 +1,88 @@
+{
+  "excluded_regions": [
+    "lisbon"
+  ],
+  "subject": "Ruta FemTech: fechas y reservas",
+  "preheader": "26 de octubre–6 de noviembre. Ciudad de México, Tijuana y San Francisco.",
+  "events": {
+    "ruta": {
+      "title": "Del atleta de élite a tu día a día",
+      "description": "Xesco Espar: rendimiento, tecnología y salud.",
+      "sessions": "",
+      "badge": "Gratis · Registro en Luma",
+      "accessNote": "Cóctel por invitación aparte.",
+      "timeLabel": "Hora por confirmar: 17:00 en Luma; 17:30 en el cartel.",
+      "button": "Registrarme en Luma",
+      "venue": "CANACINTRA Nacional"
+    },
+    "cocktail": {
+      "title": "Pase VIP Gold · Cóctel",
+      "description": "Encuentro para empresas e inversionistas.",
+      "sessions": "",
+      "badge": "Por invitación",
+      "accessNote": "30,000 pesos mexicanos por cinco accesos. Impuestos por confirmar."
+    },
+    "milken": {
+      "title": "Mayra en Milken Institute",
+      "description": "Mayra participará junto con Jill Biden, según la organización. Sesión y horario por confirmar.",
+      "sessions": "",
+      "badge": "Solo información",
+      "accessNote": "Milken gestiona las invitaciones. FemTech no recibe reservas.",
+      "venue": "Four Seasons"
+    },
+    "deeptech": {
+      "title": "Salud + Deeptech",
+      "description": "Con Tec de Monterrey: tecnología para la salud de la mujer.",
+      "sessions": "",
+      "badge": "Registro en Luma",
+      "accessNote": "Precio y condiciones en Luma.",
+      "timeLabel": "17:00 · Hora del calendario de Ciudad de México",
+      "button": "Registrarme en Luma",
+      "venue": "Auditorio Glaxo · Ciudad por confirmar"
+    },
+    "industrial": {
+      "title": "Liderazgo y manufactura",
+      "description": "Visitas a plantas de manufactura médica y bienvenida.",
+      "sessions": "Xesco Espar: fecha por confirmar.",
+      "badge": "Pase VIP de tres días",
+      "accessNote": "",
+      "button": "Ver pases de Tijuana"
+    },
+    "summit": {
+      "title": "FemTech México Summit",
+      "description": "Charlas sobre salud de la mujer, industria e inversión.",
+      "sessions": "",
+      "badge": "Summit gratuito · Registro en Luma",
+      "accessNote": "Área reservada con el pase VIP de tres días.",
+      "timeLabel": "08:00 en Tijuana · 09:00 en Ciudad de México",
+      "button": "Registrarme en Luma",
+      "venue": "Universidad Xochicalco",
+      "secondaryUrl": "https://ruta2026.prelude-health.com/vip-tijuana-page",
+      "secondaryLabel": "Ver pase VIP"
+    },
+    "hospitals": {
+      "title": "Hospitales y cierre",
+      "description": "Recorridos por hospitales y cierre con la delegación.",
+      "sessions": "",
+      "badge": "Pase VIP de tres días",
+      "accessNote": "Sedes y horarios por confirmar.",
+      "button": "Ver pases de Tijuana"
+    },
+    "sf": {
+      "title": "Ruta FemTech · Silicon Valley",
+      "description": "Sede, formato y acceso por confirmar.",
+      "sessions": "",
+      "badge": "Registro pendiente",
+      "accessNote": ""
+    },
+    "startup-world-cup": {
+      "title": "Startup World Cup · Gran final",
+      "description": "Semifinales el 4 de noviembre; gran final el 6.",
+      "sessions": "",
+      "badge": "Boletos con el organizador",
+      "accessNote": "Competir requiere clasificación.",
+      "button": "Ver boletos oficiales",
+      "venue": "Hilton San Francisco Union Square"
+    }
+  }
+}

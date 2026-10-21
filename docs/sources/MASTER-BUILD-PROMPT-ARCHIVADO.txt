@@ -1,0 +1,773 @@
+# CODEX MASTER BUILD PROMPT
+## FEMTECH MÉXICO™ — RUTA FEMTECH 2026
+### Gold Sponsorship Landing Page + GoHighLevel Integration
+
+**Project:** Ruta FemTech 2026 — Gold Sponsorship  
+**Event date:** Monday, October 26, 2026  
+**Location:** Ciudad de México  
+**Organizations:** FemTech México™ × CANACINTRA  
+**Sponsorship price:** MXN $30,000  
+**Included admissions:** 5 VIP cocktail accesses  
+**Relationship-building period:** 6 months  
+**Language:** Mexican Spanish  
+**Platform:** GoHighLevel (GHL)  
+**Development environment:** Codex  
+**Project status:** Build immediately; production payment activation after configuration and approval.
+
+---
+
+# 1. YOUR ROLE
+
+Act as a multidisciplinary team combining:
+
+- Senior Full-Stack Developer
+- Conversion Rate Optimization Specialist
+- GoHighLevel Solutions Architect
+- UX/UI Designer
+- Global Creative Director
+- Marketing Automation Architect
+- Payment Integration Specialist
+- Technical SEO Specialist
+- Quality Assurance Engineer
+
+Your mission is to design, develop, test, and prepare a complete sponsorship acquisition and payment experience for Ruta FemTech 2026.
+
+This is a commercial implementation project.
+
+The outcome must be a functional, polished, production-ready solution that can be deployed into GoHighLevel, with payment processing, CRM management, registration, confirmation, and sponsor onboarding.
+
+**Build for GHL from the beginning.**
+
+Avoid creating an attractive standalone website that later requires substantial redevelopment to integrate with GHL.
+
+---
+
+# 2. ORGANIZATION CONTEXT
+
+## About FemTech México™
+
+FemTech México™ is an innovation ecosystem founded in 2024 to accelerate innovation, research, entrepreneurship, investment, manufacturing, and access to solutions addressing women's health.
+
+Its mission is to position Mexico as a global hub for women's health innovation.
+
+FemTech México operates at the intersection of:
+
+- Women's health and medical technology
+- Entrepreneurship and innovation
+- Manufacturing and industrial development
+- Investment and venture capital
+- Academic research
+- Healthcare delivery
+- Government and regulatory frameworks
+- International collaboration
+
+The organization brings together entrepreneurs, scientists, healthcare professionals, universities, manufacturers, investors, government representatives, and industry leaders.
+
+FemTech México represents a movement building a new healthcare and economic opportunity.
+
+**Brand positioning:**
+
+The precision of medical technology.  
+The energy of entrepreneurship.  
+The credibility of industry and investment.  
+The ambition of a global movement.
+
+**Brand personality:**
+
+Visionary, bold, intelligent, inclusive, global, futuristic, and institutionally credible.
+
+Do not describe FemTech México as the first FemTech association in Latin America.
+
+## About Ruta FemTech 2026
+
+Ruta FemTech 2026 is a series of activities connecting the women's health innovation ecosystem with industry, investment, manufacturing, technology, and entrepreneurship.
+
+The October 26 event in Ciudad de México involves FemTech México and CANACINTRA.
+
+The event provides opportunities for business connections, knowledge exchange, collaboration, and visibility.
+
+The sponsorship page is specifically for companies interested in becoming Gold Sponsors of the October 26 event and accessing the associated six-month relationship-building benefits.
+
+The main event and VIP cocktail must be distinguished.
+
+The Gold Sponsorship is a corporate contribution that includes five VIP cocktail accesses.
+
+The public-facing offer should never imply that VIP admission is sold separately for $6,000 per person.
+
+---
+
+# 3. COMMERCIAL OBJECTIVE
+
+## Primary conversion
+
+Secure confirmed Gold Sponsorship payments of:
+
+**MXN $30,000 per company.**
+
+Each Gold Sponsorship includes five VIP cocktail accesses and the additional benefits described below.
+
+## Secondary objectives
+
+Capture complete company and representative information.
+
+Generate an accurate sponsor record in GHL.
+
+Collect invoicing information where required.
+
+Register the five VIP attendees.
+
+Capture the company's logo and branding information.
+
+Trigger sponsor confirmation and onboarding.
+
+Notify the FemTech México organizing team.
+
+Track sponsor fulfillment and six-month follow-up.
+
+## Core positioning
+
+**Más que un evento. Seis meses de oportunidades.**
+
+This is the central commercial message.
+
+We are offering business visibility, networking, and opportunities for participation in an industrial innovation ecosystem.
+
+The cocktail is one benefit within a broader sponsorship package.
+
+---
+
+# 4. GOLD SPONSORSHIP — OFFICIAL OFFER
+
+## Price
+
+**$30,000 MXN**
+
+The final treatment of IVA must be confirmed before enabling live payments.
+
+Display the price as MXN $30,000 and include a clearly identified tax clarification until confirmed.
+
+## Included benefits
+
+### Benefit 1 — Event branding
+
+Sponsor logo visibility on October 26 during the event.
+
+The exact placements and promotional materials must be confirmed by the organizers.
+
+Do not promise specific impressions, audience reach, or logo placements that have not been approved.
+
+### Benefit 2 — Small exhibition space
+
+One small stand or designated exhibition area during the VIP cocktail.
+
+The space allows the company to introduce its business, share information, and interact with attendees.
+
+Stand dimensions, furniture, electricity, setup, and teardown requirements must be confirmed.
+
+### Benefit 3 — Five VIP cocktail admissions
+
+Five individual admissions to the VIP cocktail on October 26.
+
+The sponsoring company may nominate its representatives or invited guests.
+
+Attendee names may be collected after sponsorship payment, subject to an organizer-defined registration deadline.
+
+### Benefit 4 — Six months of CANACINTRA committee access
+
+Access to meetings involving:
+
+- Mujeres Industriales
+- Sector Médico
+- Sector Innovación
+
+Duration: six months.
+
+Participation is subject to the relevant committees' schedules, availability, and rules.
+
+The exact start and end dates must be confirmed.
+
+This benefit must be represented as access to relevant meetings, rather than automatic CANACINTRA membership.
+
+### Benefit 5 — Speaking opportunities
+
+The sponsor may propose representatives as speakers at selected Mujeres Industriales meetings during the six-month period.
+
+Participation requires prior review and approval.
+
+Do not guarantee a speaking slot.
+
+Use wording such as:
+
+**"Oportunidad de participar como ponente, previa revisión y aprobación del comité correspondiente."**
+
+---
+
+# 5. CANACINTRA CONTEXT
+
+CANACINTRA is an established Mexican industrial chamber with an extensive national business network.
+
+The following institutional figures were supplied for the sponsorship proposal:
+
+- 85 years of institutional history
+- 76 delegations
+- 14 sectors
+- 110 industrial branches
+- More than 30,000 affiliates
+
+These figures must be validated before publication.
+
+They represent CANACINTRA's institutional network.
+
+They are not guaranteed event attendance, sponsor exposure, or direct access to every affiliate.
+
+Recommended section headline:
+
+**CONECTA CON LA FUERZA INDUSTRIAL DE MÉXICO**
+
+Supporting text:
+
+"Tu patrocinio abre oportunidades de vinculación con líderes empresariales, representantes de la industria médica y actores del ecosistema de innovación."
+
+Avoid claiming access to the entire CANACINTRA membership database.
+
+---
+
+# 6. COMPLETE LANDING PAGE COPY
+
+All visible website content must be in Mexican Spanish.
+
+Use concise, positive, confident language.
+
+Avoid negative or defensive positioning.
+
+## SECTION 1 — HERO
+
+Eyebrow:
+
+FEMTECH MÉXICO™ × CANACINTRA
+
+Main heading:
+
+**PATROCINIO GOLD**
+
+Supporting headline:
+
+**Conecta con quienes están construyendo el futuro de la salud de la mujer.**
+
+Description:
+
+"Posiciona a tu empresa, fortalece relaciones estratégicas y participa en un ecosistema que conecta industria, tecnología, innovación y salud."
+
+Event details:
+
+26 OCTUBRE 2026  
+CIUDAD DE MÉXICO
+
+Price:
+
+**$30,000 MXN**
+
+Supporting information:
+
+5 accesos al cóctel VIP + 6 meses de vinculación empresarial.
+
+Primary CTA:
+
+**QUIERO SER PATROCINADOR GOLD**
+
+Secondary CTA:
+
+**CONOCE LOS BENEFICIOS**
+
+The primary CTA scrolls to the sponsorship registration and payment section.
+
+## SECTION 2 — VALUE PROPOSITION
+
+Eyebrow:
+
+UNA ALIANZA CON VISIÓN DE FUTURO
+
+Headline:
+
+**Más que un evento. Seis meses de oportunidades.**
+
+Description:
+
+"El Patrocinio Gold de Ruta FemTech 2026 conecta a tu empresa con espacios de visibilidad, relacionamiento empresarial y colaboración en el ecosistema de innovación en salud de la mujer."
+
+Design as a large editorial section with substantial white space.
+
+## SECTION 3 — SPONSORSHIP BENEFITS
+
+Headline:
+
+**TU PATROCINIO INCLUYE**
+
+Display five premium benefit blocks.
+
+01 — VISIBILIDAD DE MARCA
+
+"Presencia de tu logotipo durante el evento del 26 de octubre."
+
+02 — ESPACIO DE EXHIBICIÓN
+
+"Un espacio tipo stand pequeño durante el cóctel para conectar con asistentes y presentar tu empresa."
+
+03 — CINCO ACCESOS VIP
+
+"Invita a cinco representantes, clientes o aliados estratégicos al cóctel VIP."
+
+04 — SEIS MESES DE VINCULACIÓN
+
+"Acceso a reuniones de Mujeres Industriales, Sector Médico y Sector Innovación de CANACINTRA, conforme a sus calendarios y condiciones de participación."
+
+05 — OPORTUNIDADES COMO PONENTE
+
+"Posibilidad de proponer representantes de tu empresa como ponentes en reuniones seleccionadas, previa revisión y aprobación."
+
+Use subtle icons and a restrained editorial layout.
+
+## SECTION 4 — CANACINTRA
+
+Headline:
+
+**CONECTA CON LA FUERZA INDUSTRIAL DE MÉXICO**
+
+Supporting copy:
+
+"CANACINTRA reúne una amplia red de empresas, sectores industriales y líderes que contribuyen al desarrollo económico y tecnológico del país."
+
+Display five statistics with strong typography.
+
+85 AÑOS  
+76 DELEGACIONES  
+14 SECTORES  
+110 RAMAS INDUSTRIALES  
++30,000 AFILIADOS
+
+Add a small footnote stating that the institutional figures are subject to verification.
+
+## SECTION 5 — SPONSORSHIP OFFER
+
+Eyebrow:
+
+OPORTUNIDAD DE PATROCINIO
+
+Headline:
+
+**GOLD SPONSORSHIP**
+
+Price:
+
+**$30,000 MXN**
+
+Description:
+
+"Una oportunidad para dar visibilidad a tu empresa y desarrollar conexiones estratégicas durante el evento y los seis meses posteriores."
+
+Summary:
+
+- Reconocimiento de marca durante el evento
+- Espacio pequeño de exhibición
+- 5 accesos al cóctel VIP
+- 6 meses de vinculación empresarial
+- Oportunidades de participación como ponente, sujetas a aprobación
+
+CTA:
+
+**CONFIRMAR PATROCINIO**
+
+## SECTION 6 — REGISTRATION
+
+Headline:
+
+**CONFIRMA TU PATROCINIO**
+
+Description:
+
+"Completa los datos de tu empresa para registrar tu participación como Patrocinador Gold."
+
+Form fields:
+
+Company / Razón social  
+Commercial brand name  
+Representative's full name  
+Job title  
+Email  
+Phone / WhatsApp  
+RFC, if invoice required  
+Invoice requirement (yes/no)  
+Billing details, conditional  
+Acceptance of terms and conditions  
+Acceptance of privacy notice
+
+Display order summary:
+
+Patrocinio Gold × 1  
+5 accesos VIP incluidos  
+Total: MXN $30,000, subject to confirmed tax treatment
+
+CTA:
+
+**CONTINUAR AL PAGO**
+
+Do not request credit card information through a custom form.
+
+Use the approved payment provider's secure checkout.
+
+## SECTION 7 — TERMS AND CONDITIONS
+
+Use an accessible accordion or expandable section.
+
+Include the complete legal topics defined in Section 11 of this brief.
+
+The user must explicitly accept the terms before payment.
+
+## SECTION 8 — FOOTER
+
+FemTech México™  
+Ruta FemTech 2026
+
+Links:
+
+Términos y condiciones  
+Aviso de privacidad  
+Contacto  
+Información de patrocinio
+
+Only use verified official contact information and approved organization logos.
+
+---
+
+# 7. DESIGN SYSTEM
+
+Follow the official FemTech México™ Master Design System.
+
+## Brand palette
+
+Midnight Purple: #280B2E  
+Neon Magenta: #FF2FA3  
+Electric Lavender: #8830FF  
+Mint / Teal: #2DE89A  
+White: #FFFFFF  
+Warm Sand: #EAE4DC
+
+Use the palette with restraint.
+
+This is a premium corporate sponsorship experience.
+
+## Typography
+
+Primary headline: Agrandir Wide  
+Supporting text: Open Sauce
+
+Use clean geometric sans-serif fallbacks where required.
+
+## Visual identity
+
+FemTech México's signature visual element is a continuous neon-magenta architectural skyline.
+
+For Mexico City, use geographically accurate landmarks.
+
+The Ángel de la Independencia should be prominently positioned when appropriate.
+
+The skyline must feel like elegant architectural line art, rather than a generic futuristic city.
+
+## Sunset motif
+
+Use a large warm coral, rose, or amber sunset disk behind the skyline.
+
+The sunset represents momentum, opportunity, and the beginning of a new era.
+
+## Approved visual modes
+
+### Cinematic Event Mode
+
+Use for the hero section.
+
+Deep violet background, magenta skyline, warm sunset, strong headline, premium lighting, and restrained visual effects.
+
+### Institutional Editorial Mode
+
+Use for the benefits, institutional statistics, registration, and terms.
+
+White background, deep-purple typography, generous negative space, clean alignment, and subtle magenta accents.
+
+## Layout principles
+
+Visual-first.
+
+Minimal text.
+
+Large headlines.
+
+Strong hierarchy.
+
+Mobile readability.
+
+Generous spacing.
+
+One primary action per section.
+
+No excessive animation.
+
+No generic healthcare stock imagery.
+
+Use approved logos and skyline artwork where available.
+
+If official assets are missing, create clearly labeled placeholders for replacement.
+
+---
+
+# 8. UX AND CONVERSION REQUIREMENTS
+
+Build the page as a high-conversion corporate sponsorship funnel.
+
+## Navigation
+
+Use minimal navigation:
+
+Benefits  
+CANACINTRA  
+Patrocinio  
+Registro
+
+The header should include a prominent sponsorship CTA.
+
+## Mobile behavior
+
+Use a sticky bottom CTA on mobile.
+
+It should lead to the registration section.
+
+Ensure that it does not obscure form fields or legal content.
+
+## Conversion architecture
+
+The user journey is:
+
+1. Understand the opportunity.
+2. Review the sponsorship benefits.
+3. Establish institutional credibility.
+4. Confirm the investment amount.
+5. Complete company registration.
+6. Accept terms.
+7. Proceed to secure payment.
+8. Receive confirmation.
+9. Submit logo and attendee information.
+10. Begin sponsor onboarding.
+
+## Trust elements
+
+Show:
+
+- Official organization logos
+- Clear sponsorship price
+- Exact benefits
+- Transparent conditions
+- Secure payment process
+- Contact information
+- Confirmation and next steps
+
+Avoid artificial scarcity, unverified sponsor logos, fabricated testimonials, and unsupported claims.
+
+---
+
+# 9. GOHIGHLEVEL ARCHITECTURE
+
+This page must be designed for eventual deployment and operation inside GoHighLevel.
+
+Before implementation, inspect the available GHL account configuration and identify supported integration methods.
+
+Do not assume a particular API capability or payment provider is available.
+
+## Preferred architecture
+
+Use GHL-native functionality where it reliably supports the requirement.
+
+Potential components:
+
+- GHL Funnel / Website Page
+- GHL Form or Survey
+- GHL Products and Payments
+- GHL Payment Links or Order Forms
+- GHL Contacts
+- GHL Opportunities
+- GHL Custom Fields
+- GHL Workflows
+- GHL Email and SMS
+- GHL File Uploads
+- GHL Tags
+- GHL Reporting
+
+If a custom frontend is required, preserve a straightforward deployment path using GHL-compatible HTML, CSS, JavaScript, and embedded native components.
+
+Evaluate GHL's actual capabilities before choosing between native checkout and an external payment flow.
+
+## GHL contact fields
+
+Create or map:
+
+First Name  
+Last Name  
+Email  
+Phone  
+Company Name  
+Job Title  
+Sponsor Tier  
+Event Name  
+Sponsorship Amount  
+Payment Status  
+Payment Transaction ID  
+Invoice Required  
+RFC  
+Billing Information  
+Logo Submitted  
+VIP Attendee Count  
+VIP Attendee Registration Status  
+Terms Accepted  
+Terms Version  
+Terms Acceptance Timestamp  
+Privacy Consent  
+Six-Month Benefits Start Date  
+Six-Month Benefits End Date  
+Sponsor Fulfillment Status
+
+Use custom fields only when an appropriate native field is unavailable.
+
+Avoid duplicate fields.
+
+## Tags
+
+Suggested tags:
+
+RUTA-FEMTECH-2026  
+RUTA-FEMTECH-2026-GOLD  
+SPONSOR-INTERESTED  
+SPONSOR-PAYMENT-PENDING  
+SPONSOR-PAID  
+SPONSOR-ONBOARDING  
+SPONSOR-LOGO-PENDING  
+SPONSOR-VIP-REGISTRATION-PENDING  
+SPONSOR-ACTIVE
+
+## Opportunity pipeline
+
+Pipeline name:
+
+**Ruta FemTech 2026 — Sponsorships**
+
+Stages:
+
+1. New Interest
+2. Registration Started
+3. Payment Pending
+4. Payment Confirmed
+5. Sponsor Onboarding
+6. Benefits Active
+7. Benefits Completed
+8. Closed / Cancelled
+
+The sponsorship amount should be recorded as MXN $30,000, adjusted only when the approved invoice and tax treatment require it.
+
+Use a unique opportunity per sponsorship purchase.
+
+Avoid duplicate opportunities from repeat submissions.
+
+---
+
+# 10. PAYMENT INTEGRATION
+
+## Product configuration
+
+Product:
+
+Ruta FemTech 2026 — Patrocinio Gold
+
+Price:
+
+MXN $30,000
+
+Quantity:
+
+1
+
+Included admissions:
+
+5
+
+The five admissions are benefits associated with one sponsorship purchase.
+
+They are not five separate products.
+
+## Payment requirements
+
+Use a secure payment provider supported by the configured GHL account.
+
+Potentially Stripe or another approved provider, depending on account availability.
+
+Before implementation, confirm:
+
+- Merchant account
+- Payment provider
+- Supported currency
+- Tax configuration
+- Payment methods
+- Transaction fees
+- Invoice issuer
+- Refund policy
+- Settlement destination
+
+## Payment success
+
+Payment confirmation must come from the payment provider or verified GHL transaction status.
+
+Do not mark a sponsorship as paid merely because a customer reaches a success URL.
+
+Use reliable transaction identifiers and idempotent payment handling.
+
+## Payment failure
+
+If payment fails:
+
+Preserve the sponsor registration.
+
+Show a clear retry path.
+
+Set payment status to pending or failed, as appropriate.
+
+Do not activate paid sponsorship benefits.
+
+## Payment confirmation
+
+After verified payment:
+
+- Update sponsor record
+- Update opportunity
+- Apply SPONSOR-PAID tag
+- Record transaction ID
+- Send confirmation email
+- Notify organizing team
+- Start sponsor onboarding workflow
+
+---
+
+# 11. TERMS AND CONDITIONS
+
+Create a complete, readable Spanish sponsorship agreement or terms section.
+
+The legal content should cover:
+
+1. Sponsorship nature and price.
+2. Sponsorship confirmation following verified payment.
+3. Five individual VIP cocktail admissions.
+4. Event logo visibility.
+5. Small stand allocation and operational requirements.
+6. Sponsor logo delivery deadlines.
+7. Six-month CANACINTRA committee access, subject to applicable rules.
+8. Speaker participation subject to review and approval.
+9. No guarantee of commercial outcomes.
+10. Taxes, invoices, and payment conditions.
+11. Cancellation and refund policy.
+12. Event postponement or material changes.
+13. Use of sponsor name and logo

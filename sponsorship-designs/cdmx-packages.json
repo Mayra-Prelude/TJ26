@@ -1,0 +1,106 @@
+{
+  "city": "CDMX",
+  "event_date": "2026-10-26",
+  "currency": "MXN",
+  "status": "review",
+  "confirmed_source_packages": [
+    {
+      "id": "gold",
+      "name": "Pase VIP Gold",
+      "amount": 30000,
+      "price_status": "reference_tax_treatment_pending",
+      "included_invitations": 5,
+      "benefits": [
+        "Visibilidad del logotipo durante el evento",
+        "Espacio pequeño de exhibición en el cóctel",
+        "Cinco invitaciones VIP",
+        "Seis meses de vinculación según calendarios de los comités",
+        "Propuestas de ponencia sujetas a aprobación"
+      ],
+      "terms_status": "draft",
+      "terms": [
+        {
+          "heading": "Naturaleza del pase VIP y precio",
+          "text": "La propuesta Gold corresponde a un pase VIP Gold para Ruta FemTech 2026, el 26 de octubre de 2026 en Ciudad de México. Su importe de referencia es MXN 30,000 por un paquete de cinco pases VIP Gold. El evento público y el cóctel VIP son actividades distintas. El tratamiento del IVA, el total definitivo, la entidad contratante y el emisor fiscal se confirmarán en el acuerdo final."
+        },
+        {
+          "heading": "Confirmación y condiciones de pago",
+          "text": "El pase VIP se confirma cuando el proveedor de pago verifica la transacción y la organización comunica su confirmación. La captura de datos o la visita a una página de confirmación no acreditan un pago. El importe, moneda, impuestos y condiciones aplicables deben mostrarse antes de cobrar. Las modalidades y fechas límite de pago están pendientes de definición."
+        },
+        {
+          "heading": "Cinco invitaciones al cóctel VIP",
+          "text": "Gold contempla cinco accesos individuales para representantes o invitados designados por la empresa. Son un beneficio del pase VIP Gold; no se ofrecen como cinco productos individuales. La organización coordina nombres, instrucciones de llegada y acceso. Horario, sede exacta del cóctel y fecha límite de registro están por confirmar."
+        },
+        {
+          "heading": "Visibilidad y entrega del logotipo",
+          "text": "Se contempla la presencia del logotipo de la empresa participante en materiales del evento del 26 de octubre. Ubicaciones, formatos, canales, materiales y fecha de entrega deben acordarse con la organización. No se garantizan cifras de exposición ni ubicaciones específicas antes de su confirmación."
+        },
+        {
+          "heading": "Espacio de exhibición",
+          "text": "La propuesta incluye un espacio de exhibición pequeño durante el cóctel. La organización confirmará dimensiones, mobiliario, electricidad, requisitos de acceso, montaje y desmontaje. Los servicios adicionales y sus costos, si los hubiera, deben acordarse expresamente antes de contratar."
+        },
+        {
+          "heading": "Vinculación durante seis meses",
+          "text": "La propuesta contempla acceso a reuniones de Mujeres Industriales, Sector Médico y Sector Innovación de CANACINTRA durante seis meses, sujeto a calendarios, disponibilidad y reglas de los comités. Las fechas de inicio y término se confirmarán. Este beneficio no constituye afiliación automática ni acceso a bases de datos de miembros."
+        },
+        {
+          "heading": "Participación como ponente y resultados",
+          "text": "La empresa puede proponer representantes para participar como ponentes en reuniones seleccionadas de Mujeres Industriales. Cada participación requiere revisión y aprobación del comité correspondiente. El pase VIP ofrece oportunidades de vinculación; no garantiza ventas, inversión, contactos específicos ni resultados comerciales."
+        },
+        {
+          "heading": "Facturación e impuestos",
+          "text": "La empresa proporcionará datos fiscales correctos cuando solicite factura. Antes de habilitar el pago, la organización confirmará la entidad contratante, el emisor fiscal, el tratamiento del IVA, el total exigible y los plazos de facturación. La propuesta no presupone un precio final con impuestos incluidos."
+        },
+        {
+          "heading": "Cancelación, reembolso y cambios del evento",
+          "text": "La política específica de cancelación y reembolso de CDMX está pendiente de confirmación. Debe definir plazos, procedimiento, gastos aplicables, transferencias o sustituciones y las opciones ante aplazamientos o modificaciones sustanciales. Se comunicará y aceptará antes del pago. Las fechas y restricciones del pase de Tijuana no se aplican automáticamente a este pase VIP."
+        },
+        {
+          "heading": "Uso del nombre y elementos de marca",
+          "text": "La empresa confirma que tiene autorización para proporcionar su nombre y logotipo. Su uso se limita a identificar el pase VIP en los materiales y canales acordados. Vigencia, formatos, aprobaciones y procedimiento para correcciones se detallarán en el acuerdo final."
+        },
+        {
+          "heading": "Entrega de beneficios y atención",
+          "text": "Tras el pago verificado, la organización coordinará la entrega del logotipo, los cinco invitados y los requisitos de exhibición. Los beneficios de vinculación se seguirán durante el periodo acordado. Las consultas pueden dirigirse a hello@femtech.mx; responsables operativos, calendario de entregables y condiciones finales deben quedar por escrito."
+        }
+      ],
+      "included_attendees": 5,
+      "unit": "paquete de cinco pases VIP"
+    }
+  ],
+  "additional_packages": [],
+  "missing_information": [
+    "Tratamiento del IVA y total final",
+    "Entidad contratante y emisor fiscal CDMX",
+    "Política de cancelación y reembolso CDMX",
+    "URL de destino y productos verificados en GHL"
+  ],
+  "excluded_as_unconfirmed": [
+    "Aliado USD 3,500, Aliado Global USD 7,000 y Presenta USD 14,000 pertenecen a una fuente archivada de Tijuana; no están confirmados para CDMX."
+  ],
+  "scope_note": "La organización confirmó usar la propuesta previamente entregada para CDMX. Gold es la única oferta documentada; no se añaden otros niveles.",
+  "registration": {
+    "system": "existing_airtable_form",
+    "form_url": null,
+    "fields_per_booking": [
+      "empresa",
+      "logotipo",
+      "nombre del comprador",
+      "correo del comprador",
+      "teléfono del comprador",
+      "ciudad",
+      "paquete",
+      "cantidad",
+      "referencia de reserva"
+    ],
+    "fields_per_attendee": [
+      "nombre completo",
+      "correo electrónico",
+      "teléfono con código de país",
+      "empresa"
+    ],
+    "attendance_rule": "Registrar a cada persona incluida; Gold = 5 asistentes por paquete. El comprador cuenta únicamente si asiste.",
+    "payment_system": "GHL payment link",
+    "payment_url": null
+  }
+}
